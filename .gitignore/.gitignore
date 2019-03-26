@@ -1,4 +1,4 @@
-# Compiled class file
+﻿# Compiled class file
 *.class
 
 # Log file
@@ -32,4 +32,5 @@ HELP.md
 * .iml
 * .ipr
 
-/node_modules/
+front/node_modules/*
+
